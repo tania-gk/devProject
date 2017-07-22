@@ -1,0 +1,21 @@
+.main{
+	margin:0;
+	color:#fefbd8;
+	font:600 16px/18px 'Cairo',sans-serif;
+}
+
+.gallery {
+	
+	
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+	  
+	
+	}	
+	.gallery img{padding: 7px 0;}
+/*
+.gallery-item{
+  background-color:#f0f0f5;
+  border-style:outset;
+}*/
